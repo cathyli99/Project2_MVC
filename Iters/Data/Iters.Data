@@ -1,0 +1,10 @@
+﻿using System;
+namespace Iters.Data
+{
+	public class Iters
+	{
+		public Iters()
+		{
+		}
+	}
+}
